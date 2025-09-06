@@ -63,6 +63,8 @@
 First, run the development server:
 
 ```bash
+git clone git@github.com:sharmishthavirgo/Clinical-trials.git
+cd Clinical-trials
 npm run dev
 # or
 yarn dev
@@ -71,7 +73,7 @@ pnpm dev
 # or
 bun dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/dashbaord](http://localhost:3000/dashbaord) with your browser to see the result.
 
 ### API Endpoint
 - GET /api/trials
