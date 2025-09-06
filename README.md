@@ -1,3 +1,6 @@
+
+<img width="1440" height="745" alt="Screen Shot 2025-09-06 at 10 10 15 AM" src="https://github.com/user-attachments/assets/f6897c8b-227b-4f92-9b35-586084f351f5" />
+
 ## Clinical Trials Research Tool
 
 - A simple web application that helps Sarah (and other users) search, filter, and explore clinical trials for competitive research.
