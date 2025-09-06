@@ -36,6 +36,10 @@
     - Completed
     - Active, not recruiting
     - Not yet recruiting
+    - Suspended
+    - Terminated
+    - Enrolling by Invitation
+    - Withheld
 
 ### Pagination
 - Shows current page and total pages.
